@@ -56,7 +56,7 @@ const NavBar = () => {
               </div>
 
               <div className="">
-                <button className="hidden lg:flex border text-white bg-slate-800 rounded-md px-8 py-4">
+                <button className="hidden lg:flex border text-white bg-[#0B303E] rounded-md px-8 py-4">
                   Sign Up
                 </button>
               </div>
@@ -86,7 +86,7 @@ const NavBar = () => {
                           </button>
                         </li>
                         <li>
-                          <button className="border text-white bg-slate-800 rounded-md px-8 py-4 mt-8">
+                          <button className="border text-white bg-[#0B303E] rounded-md px-8 py-4 mt-8">
                             Sign Up
                           </button>
                         </li>
