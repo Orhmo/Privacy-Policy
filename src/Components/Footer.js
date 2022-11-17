@@ -9,19 +9,19 @@ const Footer = () => {
         <span className="mr-16">&#169; 2022 Grittygrammar  </span>
             <ul className="flex flex-wrap">
               <li>
-                <a href="#" className="mr-8 pr-8 hover:underline md:mr-6 ">help</a>
+                <a href="help" className="mr-8 pr-8 hover:underline md:mr-6 ">help</a>
               </li>
               <li>
-                <a href="#" className="mr-8 pr-8 hover:underline md:mr-6">safety</a>
+                <a href="safety" className="mr-8 pr-8 hover:underline md:mr-6">safety</a>
               </li>
               <li>
-                <a href="#" className="mr-8 pr-8 hover:underline md:mr-6">privacy</a>
+                <a href="privacy" className="mr-8 pr-8 hover:underline md:mr-6">privacy</a>
               </li>
               <li>
-                <a href="#" className="mr-8 pr-8  hover:underline">terms</a>
+                <a href="terms" className="mr-8 pr-8  hover:underline">terms</a>
               </li>
               <li>
-                <a href="#" clasName="hover:underline">about us</a>
+                <a href="about-us" clasName="hover:underline">about us</a>
               </li>
             </ul>
           </div>
