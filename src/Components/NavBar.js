@@ -37,11 +37,11 @@ const NavBar = () => {
 
 
         <div className="">
-          <ul className=" mt-4 hidden lg:flex">
+          <ul className="mt-4 hidden lg:flex">
             { Links.map(({ id, link}) => (
               <li
                 key={id}
-                className ="text-lg font-bold mb-6 leading-6 px-8 cursor-pointer hover:scale-105 duration 200"
+                className ="text-sm text-[#0B303E] font-bold mb-6 leading-6 px-8 cursor-pointer hover:scale-105 duration 200"
                   >
                     {link}
                     </li>
